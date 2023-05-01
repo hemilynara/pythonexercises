@@ -1,3 +1,3 @@
 # pythonexercises
 
-Python Study Archives
+Python study archives
